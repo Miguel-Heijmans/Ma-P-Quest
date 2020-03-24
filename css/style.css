@@ -1,0 +1,33 @@
+body{
+  background-color: white;
+}
+
+.container{
+  display: inline-block;
+  width: 600px;
+  background-color: aliceblue;
+  padding: 20px;
+  border: blue 3px solid;
+  border-radius: 10px;
+
+}
+
+#feedback{
+  background-color: yellow;
+  color: red;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.extra{
+  float:right;
+  display: inline-block;
+  width: 600px;
+  background-color: aliceblue;
+  padding: 20px;
+  border: blue 3px solid;
+}
+
+#error {
+  color: red;
+}
